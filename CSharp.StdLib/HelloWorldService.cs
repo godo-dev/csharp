@@ -4,6 +4,6 @@ namespace CSharp.StdLib
     public class HelloWorldService
     {
         public string PrintHelloWorld()
-            => "Hello, world!";
+            => "Hello, World!";
     }
 }
